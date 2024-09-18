@@ -5,7 +5,7 @@
 - 🌱 Me gusta colaborar en el desarrollo de programas y voy mejorando lo que he hecho a medida que aprendo 🤓
 - 📫 Me puedes encontrar en Twitter como @alejandraS12 
 
--English vers ❤️
+  
 - 👋 Hi, I’m @QueenAlmeja
 - 👀 I’m interested in programming challenges, especially for beginners. Right Now, I working in a new repository for those who want to learn Python. This will be all in Spanish
 - 🌱 I’m currently learning Python and JavaScript 💻 
