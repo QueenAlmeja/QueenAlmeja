@@ -8,7 +8,7 @@
   
 - 👋 Hi, I’m @QueenAlmeja
 - 👀 I’m interested in programming challenges, especially for beginners. Right Now, I working in a new repository for those who want to learn Python. This will be all in Spanish
-- 🌱 I’m currently learning Python and JavaScript 💻 
+- 🌱 I’m currently learning Python 🐍
 - 🕵🏻 I’m looking to collaborate on basic programma, I am very newbie in this, so I would like to get more experiences with code lines 
 - 📫 You can reach me on twitter @alejandraS12 
 - 
